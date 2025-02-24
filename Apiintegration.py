@@ -4,7 +4,7 @@ import seaborn as sns
 import datetime
 
 # OpenWeatherMap API key (Replace 'YOUR_API_KEY' with your actual API key)
-API_KEY = "5069a1eb9e8e980190c97e01806dc50d"
+API_KEY = "f228c81d32ee175227bb26e07df9541f"
 CITY = "New Delhi"
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
